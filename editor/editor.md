@@ -1,7 +1,7 @@
 # Editor
 
 ## Text
-- Sublime Text
+- [Sublime Text](/editor/sublime_text.md)
 - Visual Studio Code
 
 ## Java
