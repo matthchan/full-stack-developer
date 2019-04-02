@@ -1,3 +1,3 @@
-## Editor
+# Editor
 
-# Text Editor
+## Text Editor
