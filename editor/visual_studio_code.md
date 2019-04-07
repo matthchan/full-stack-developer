@@ -2,7 +2,7 @@
 
 URL: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-[Awesome VS Code](https://github.com/viatsko/awesome-vscode))
+[Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 
 ## Extension
 - Indenticator
