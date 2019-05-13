@@ -32,4 +32,6 @@ https://www.w3schools.com/cssref/pr_class_display.asp
 [The Modern Javascript Tutorial](http://javascript.info/)
 [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
 [JavaScript. The Core: 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)
+[Learn Git Branching](https://learngitbranching.js.org/)
+
 

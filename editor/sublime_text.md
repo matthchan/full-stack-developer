@@ -3,6 +3,7 @@
 URL: [http://www.sublimetext.com/](http://www.sublimetext.com/)
 
 ## Package
+- tern_for_sublime
 - BracketHighlighter
 - Material Theme
 - Babel
